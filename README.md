@@ -70,14 +70,7 @@
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
 
-<!-- Gráfico de distribuição de linguagens customizado -->
-<h2 align="center">📊 Distribuição das Minhas Linguagens</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=pie&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" width="400px" />
-</div>
-
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
 
 <h2 align="center">🔍 Minha Jornada de Contribuição</h2>
 
