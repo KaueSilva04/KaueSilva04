@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/KaueSilva04">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=3498db&title_color=3498db&icon_color=3498db" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueSilva04&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=3498db&title_color=3498db&icon_color=3498db" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=compact&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" />
   </a>
 </div>
 
@@ -68,11 +68,11 @@
 <h2 align="center">🔍 Minha Jornada de Contribuição</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuarioGitHub&theme=transparent&hide_border=true&stroke=3498db&ring=3498db&fire=3498db&currStreakNum=3498db&sideNums=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=3498db" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaueSilva04&theme=transparent&hide_border=true&stroke=3498db&ring=3498db&fire=3498db&currStreakNum=3498db&sideNums=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=3498db" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeuUsuarioGitHub&theme=nord&no-frame=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KaueSilva04&theme=nord&no-frame=true&margin-w=10&column=6" />
 </div>
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SeuUsuarioGitHub" target="_blank">
+  <a href="https://github.com/KaueSilva04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:seu-email@exemplo.com" target="_blank">
