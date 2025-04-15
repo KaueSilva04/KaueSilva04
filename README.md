@@ -23,7 +23,9 @@
 </p>
 
 <p align="center">
-  Olá, mundo! 👋 Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada na programação começou com HTML/CSS e hoje abrange desde desenvolvimento web com JavaScript até aplicações em Python , Java, kotlin, node.js. Busco constantemente aprender novas tecnologias para expandir meu conhecimento.
+Olá! 👋 Sou estudante da Unicamp e um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada na programação começou com HTML e CSS, e hoje abrange desde o desenvolvimento web com JavaScript até a criação de aplicações em Python, Java, Kotlin e Node.js.
+
+Também tenho experiência na área de automação, atuando desde o desenvolvimento com microcontroladores até sistemas supervisórios e diagramas elétricos. Estou sempre em busca de novos aprendizados e tecnologias que me permitam expandir meus conhecimentos e entregar projetos cada vez melhores.
 </p>
 
 <!-- Cards de estatísticas -->
@@ -127,20 +129,11 @@
 
 <!-- Cards de repositórios -->
 <div align="center">
-  <a href="https://github.com/KaueSilva04/projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04/GRRL">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=GRRL&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
-  <a href="https://github.com/KaueSilva04/projeto-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/KaueSilva04/projeto-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-3&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/KaueSilva04/projeto-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-4&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04/jbimSolucoes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=jbimSolucoes&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
@@ -158,15 +151,15 @@
         <img src="https://img.shields.io/badge/Cursando-Sistema_da_informação-3498db?style=for-the-badge" alt="Cusando" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Certificação-JavaScript_Avançado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Certificação-Tecninco_de_TI-F7DF1E?style=for-the-badge"  />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Certificação-React_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Certificação-Tecninco_de_mecatronica-61DAFB?style=for-the-badge"  />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Certificação-AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Estagio-Automação-FF9900?style=for-the-badge"  />
       </td>
     </tr>
   </table>
@@ -186,7 +179,7 @@
   <a href="https://www.linkedin.com/in/KaueSilva04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:silva.kaue0104@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/KaueSilva04" target="_blank">
