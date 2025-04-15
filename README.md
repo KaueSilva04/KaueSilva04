@@ -26,6 +26,12 @@
 
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
+<!-- Adicionando gráfico de pizza para linguagens -->
+<div align="center">
+  <h3>Minhas Linguagens</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=donut&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" width="350px" />
+</div>
+
 <div align="center">
   <h4>Linguagens de Programação</h4>
   <p>
@@ -65,6 +71,15 @@
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
 
+<!-- Gráfico de distribuição de linguagens customizado -->
+<h2 align="center">📊 Distribuição das Minhas Linguagens</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=pie&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" width="400px" />
+</div>
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
+
 <h2 align="center">🔍 Minha Jornada de Contribuição</h2>
 
 <div align="center">
@@ -90,7 +105,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<div align="center">
-  <p align="center">
-    <img src
