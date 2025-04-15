@@ -11,7 +11,7 @@
 
   <!-- Badge contador de visitantes -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=for-the-badge&color=3498db" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=KaueSilva04&style=for-the-badge&color=3498db" alt="Contador de Visitas" />
   </p>
 </div>
 
@@ -25,9 +25,9 @@
 
 <!-- Cards de estatísticas -->
 <div align="center">
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&rank_icon=github" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueSilva04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&rank_icon=github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
@@ -131,13 +131,13 @@
 
 <!-- Gráfico de contribuições estilizado -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true&background=00000000&stroke=3498db&ring=2980b9&fire=2980b9&currStreakNum=3498db&sideNums=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=2980b9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaueSilva04&theme=tokyonight&hide_border=true&background=00000000&stroke=3498db&ring=2980b9&fire=2980b9&currStreakNum=3498db&sideNums=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=2980b9" />
 </div>
 
 <!-- Gráfico de atividade -->
 <div align="center">
   <h3>Atividade no GitHub</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seu-usuario&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaueSilva04&theme=tokyonight" />
 </div>
 
 <!-- Divisor estilizado -->
@@ -149,20 +149,20 @@
 
 <!-- Cards de repositórios -->
 <div align="center">
-  <a href="https://github.com/seu-usuario/projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04/projeto-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-1&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
-  <a href="https://github.com/seu-usuario/projeto-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04/projeto-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-2&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/seu-usuario/projeto-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-3&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04/projeto-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-3&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
-  <a href="https://github.com/seu-usuario/projeto-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-4&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <a href="https://github.com/KaueSilva04/projeto-4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-4&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
@@ -202,16 +202,16 @@
 <h2 align="center">📫 Entre em Contato</h2>
 
 <div align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/KaueSilva04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/KaueSilva04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seu-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/seu-usuario" target="_blank">
+  <a href="https://twitter.com/KaueSilva04" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
