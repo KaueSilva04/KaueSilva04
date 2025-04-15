@@ -2,7 +2,7 @@
   <!-- Borda superior com efeito gradiente -->
   <div style="width:100%; height:5px; background: linear-gradient(90deg, #3498db, #2980b9, #3498db, #2980b9);"></div>
   
-  <h1 align="center">Seu Nome</h1>
+  <h1 align="center">Kaue Samuel</h1>
   <h3 align="center">Desenvolvedor Full Stack | Estudante de Tecnologia</h3>
   
   <p align="center">
@@ -18,9 +18,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+</p>
 
 <p align="center">
-  Olá, mundo! 👋 Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada na programação começou com HTML/CSS e hoje abrange desde desenvolvimento web com JavaScript até aplicações em Python e Java. Busco constantemente aprender novas tecnologias para expandir meu conhecimento.
+  Olá, mundo! 👋 Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada na programação começou com HTML/CSS e hoje abrange desde desenvolvimento web com JavaScript até aplicações em Python , Java, kotlin, node.js. Busco constantemente aprender novas tecnologias para expandir meu conhecimento.
 </p>
 
 <!-- Cards de estatísticas -->
@@ -55,10 +58,6 @@
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
         <br>Python
       </td>
@@ -66,45 +65,27 @@
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
         <br>Java
       </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue.js
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+        <br>Kotlin
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>MySQL
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
@@ -114,11 +95,8 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
         <br>VSCode
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
     </tr>
+
   </table>
 </div>
 
@@ -177,7 +155,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Graduação-Ciência_da_Computação-3498db?style=for-the-badge" alt="Graduação" />
+        <img src="https://img.shields.io/badge/Cursando-Sistema_da_informação-3498db?style=for-the-badge" alt="Cusando" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Certificação-JavaScript_Avançado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
