@@ -1,99 +1,187 @@
+# <div align="center">![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=3498db&height=120&section=header&text=Kaue%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn)</div>
+
 <div align="center">
-  <!-- Borda superior mais simples -->
-  <div style="width:100%; height:2px; background: linear-gradient(90deg, transparent, #3498db 25%, #3498db 75%, transparent)"></div>
-  <div style="width:100%; height:1px; background: linear-gradient(90deg, transparent, #3498db 25%, #3498db 75%, transparent); margin-top:3px;"></div>
-  
-  <h1 align="center">Kaue</h1>
-  <h3 align="center">Desenvolvedor Full Stack | Entusiasta de Tecnologia</h3>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo;Criando+o+Futuro+Digital" />
 </div>
 
 <p align="center">
-  Olá 👋 Sou Kaue, desenvolvedor apaixonado por criar soluções inovadoras e enfrentar desafios tecnológicos. Minha jornada na programação é movida pela curiosidade e pela busca constante de conhecimento em novas tecnologias e metodologias.
+  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/KaueSilva04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<br>
+
+## 👨‍💻 Quem Sou Eu
+
+```javascript
+const kaue = {
+  localização: "Brasil",
+  função: "Desenvolvedor Full Stack",
+  paixões: ["Código Limpo", "Inovação", "Aprendizado Contínuo"],
+  linguagens: ["JavaScript", "Python", "Java"],
+  desafioAtual: "Expandindo meus conhecimentos em Arquitetura de Software",
+  café: true
+};
+
+// Executando missão: construir o futuro digital com código de qualidade
+while (kaue.aprendendo) {
+  kaue.conhecimento++;
+  kaue.impacto *= 2;
+}
+```
+
+<br>
+
+## 🚀 Minha Jornada Tech
+
 <div align="center">
-  <a href="https://github.com/KaueSilva04">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueSilva04&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=3498db&title_color=3498db&icon_color=3498db" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=compact&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" />
-  </a>
+  <img src="https://raw.githubusercontent.com/KaueSilva04/KaueSilva04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
+<br>
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+## 🛠️ Stack Tecnológico
 
-<!-- Adicionando gráfico de pizza para linguagens -->
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,firebase" alt="Backend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps & DB</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,docker,mongodb,mysql,vercel,netlify" alt="DevOps Skills" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h3>Minhas Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=donut&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" width="350px" />
-</div>
-
-<div align="center">
-  <h4>Linguagens de Programação</h4>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  </p>
+  <details>
+    <summary><b>📈 Métricas de Performance</b></summary>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=KaueSilva04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaueSilva04&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  </details>
   
-  <h4>Frontend</h4>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaueSilva04&theme=tokyonight" alt="Profile Details" />
   
-  <h4>Backend & Banco de Dados</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  </p>
-
-  <h4>DevOps & Ferramentas</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  </p>
+  <details>
+    <summary><b>🧠 Linguagens Mais Utilizadas</b></summary>
+    <br>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva04&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    </div>
+  </details>
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
+<br>
 
-
-
-<h2 align="center">🔍 Minha Jornada de Contribuição</h2>
+## 🔭 Projetos em Destaque
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaueSilva04&theme=transparent&hide_border=true&stroke=3498db&ring=3498db&fire=3498db&currStreakNum=3498db&sideNums=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=3498db" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Projeto 1</h3>
+        <div align="center">
+          <a href="https://github.com/KaueSilva04/projeto1" target="_blank">
+            <img src="https://via.placeholder.com/500x300?text=Projeto+1" width="100%" alt="Projeto 1" />
+          </a>
+          <p>
+            <a href="https://github.com/KaueSilva04/projeto1" target="_blank">
+              <img src="https://img.shields.io/badge/Código-282C34?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+            </a>
+            <a href="https://projeto1.com" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-3498DB?style=for-the-badge&logo=chromatic&logoColor=white" alt="Demo" />
+            </a>
+          </p>
+          <p><strong>React, Node.js, MongoDB</strong> - Descrição breve do projeto e suas funcionalidades principais.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Projeto 2</h3>
+        <div align="center">
+          <a href="https://github.com/KaueSilva04/projeto2" target="_blank">
+            <img src="https://via.placeholder.com/500x300?text=Projeto+2" width="100%" alt="Projeto 2" />
+          </a>
+          <p>
+            <a href="https://github.com/KaueSilva04/projeto2" target="_blank">
+              <img src="https://img.shields.io/badge/Código-282C34?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+            </a>
+            <a href="https://projeto2.com" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-3498DB?style=for-the-badge&logo=chromatic&logoColor=white" alt="Demo" />
+            </a>
+          </p>
+          <p><strong>Next.js, TypeScript, Tailwind</strong> - Descrição breve do projeto e suas funcionalidades principais.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📚 Aprendizado Contínuo
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-estudo-1&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaueSilva04&repo=projeto-estudo-2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Repo 2" />
+</div>
+
+<br>
+
+## 🌐 Contribuições
+
+<!-- Calendário de Contribuições do GitHub -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/3498db/KaueSilva04" alt="Contribuições de KaueSilva04" />
+</div>
+
+<br>
+
+## 💬 Frase Inspiradora
+
+<div align="center">
+  <blockquote>
+    "O código é como poesia - cada linha importa, e o conjunto cria algo belo."
+  </blockquote>
+</div>
+
+<br>
+
+## ☕ Me Pague um Café!
+
+<div align="center">
+  <p>Se meu trabalho ou repositórios te ajudaram de alguma forma, considere:</p>
+  <a href="https://www.buymeacoffee.com/seu_username" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaueSilva04&color=3498db&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaueSilva04&theme=nord&no-frame=true&margin-w=10&column=6" />
-</div>
-
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
-
-<h2 align="center">📫 Vamos Conectar</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/KaueSilva04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
+  ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=3498db&height=120&section=footer)
+  
 </div>
